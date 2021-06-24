@@ -5,17 +5,17 @@ I referenced this site :https://lovit.github.io/nlp/2019/04/30/textrank/
 
 Data: Description data of Youtube video (Beauty field like review of production, make-up)
 
-* input type, output type of functions 
+<h2>input type, output type of functions </h2>
 <main.py>
 textrank(file name of title, the number of data)
->>dataframe type of result, list of textrank keywords, list of brand
+> dataframe type of result, list of textrank keywords, list of brand
 
 ExtranctKeywords(str type)
->> list of keywords, list of brand
+> list of keywords, list of brand
 
 <PreProc.py>
 divided_by_sentence(str type)
->> sentences splited by kss
+> sentences splited by kss
 
 PreProcess(str type)
 >> str type
