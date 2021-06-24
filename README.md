@@ -9,25 +9,25 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h2>input type, output type of functions </h2>
 <main.py>
 textrank(file name of title, the number of data)
-/> dataframe type of result, list of textrank keywords, list of brand
+return) dataframe type of result, list of textrank keywords, list of brand
 
 ExtranctKeywords(str type)
-> list of keywords, list of brand
+return) list of keywords, list of brand
 
 <PreProc.py>
 divided_by_sentence(str type)
-> sentences splited by kss
+return) sentences splited by kss
 
 PreProcess(str type)
->> str type
+return) str type
 
 PreProc_apply(file name of title, the number of data)
->> list of title, list of data
+return) list of title, list of data
 *example list of data : ['content of data1' , 'content of data2']
 
 remove_stopwords(list of keywords)
->> list of keywords
+return) list of keywords
 
 <textrank.py>
 tokenize(str type) #using kkma
->> list of noun
+return) list of noun
