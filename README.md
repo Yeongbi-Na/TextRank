@@ -31,7 +31,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h4>remove_stopwords(list of keywords)</h4>
 <h4>return) list of keywords</h4>
 
-
+<br>
 <h3>textrank.py</h3>
 <h4>tokenize(str type) #using kkma</h4>
 <h4>return) list of noun</h4>
