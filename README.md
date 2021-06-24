@@ -9,7 +9,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h2>input type, output type of functions </h2>
 <main.py>
 textrank(file name of title, the number of data)
-> dataframe type of result, list of textrank keywords, list of brand
+/> dataframe type of result, list of textrank keywords, list of brand
 
 ExtranctKeywords(str type)
 > list of keywords, list of brand
