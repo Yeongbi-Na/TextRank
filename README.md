@@ -5,7 +5,7 @@ This code extracts important keywords using TextRank Algorithm. The code is base
 I referenced this site :https://lovit.github.io/nlp/2019/04/30/textrank/
 
 Data: Description data of Youtube video (Beauty field like review of production, make-up)
-
+<br> <br>
 <h2>Input type, output type of functions </h2>
 
 <h3>main_.py
