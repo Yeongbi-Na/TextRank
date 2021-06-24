@@ -37,7 +37,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h4>return) list of noun</h4>
     <br>
 <h2>brand, stopwords text file</h2>
-brand.txt: cowling brand name from the site: powder room
+brand.txt: cowling brand name from the site: powder room<br>
 stopwords: to remove not meaningful keywords
   
   
