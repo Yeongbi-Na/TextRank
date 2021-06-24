@@ -8,7 +8,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 
 <h2>Input type, output type of functions </h2>
 <main.py>
-<h1>textrank(file name of title, the number of data)</h1>
+<h4>textrank(file name of title, the number of data)</h4>
 
 
 return) dataframe type of result, list of textrank keywords, list of brand
@@ -43,6 +43,6 @@ remove_stopwords(list of keywords)
 
 return) list of keywords
 
-<h1><textrank.py></h1>
+<h4><textrank.py></h4>
 tokenize(str type) #using kkma
 return) list of noun
