@@ -16,7 +16,7 @@ return) list of keywords, list of brand
 
 
 
->PreProc.py
+<h3>PreProc.py
 <h4>divided_by_sentence(str type)</h4>
 return) sentences splited by kss
 
@@ -28,6 +28,6 @@ return) list of title, list of data
 <h4>remove_stopwords(list of keywords)</h4>
 return) list of keywords
 
->textrank.py
+<h3>textrank.py
 <h4>tokenize(str type) #using kkma</h4>
 return) list of noun
