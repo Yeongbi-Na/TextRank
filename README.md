@@ -15,7 +15,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h4>ExtranctKeywords(str type)</h4>
 <h4>return) list of keywords, list of brand</h4>
 
-
+<br>
 
 <h3>PreProc.py
 <h4>divided_by_sentence(str type)</h4>
