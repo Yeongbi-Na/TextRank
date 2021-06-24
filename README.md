@@ -14,20 +14,23 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <br> <br>
 <h4>ExtranctKeywords(str type)</h4>
 <h4>return) list of keywords, list of brand
-
+<br> <br>
 
 
 <h3>PreProc.py
 <h4>divided_by_sentence(str type)</h4>
 <h4>return) sentences splited by kss
-
+<br> <br>
 <h4>PreProcess(str type)</h4>
 <h4>return) str type
+  <br> <br>
 <h4>PreProc_apply(file name of title, the number of data)</h4>
 <h4>return) list of title, list of data
+  <br> <br>
 <h4>*example list of data : ['content of data1' , 'content of data2']
 <h4>remove_stopwords(list of keywords)</h4>
 <h4>return) list of keywords
+  <br> <br>
 
 <h3>textrank.py
 <h4>tokenize(str type) #using kkma</h4>
