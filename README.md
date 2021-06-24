@@ -13,8 +13,9 @@ textrank(file name of title, the number of data)
 
 return) dataframe type of result, list of textrank keywords, list of brand
 
-ExtranctKeywords(str type)
 
+
+ExtranctKeywords(str type)
 
 return) list of keywords, list of brand
 
