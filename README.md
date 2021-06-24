@@ -7,7 +7,7 @@ I referenced this site :https://lovit.github.io/nlp/2019/04/30/textrank/
 Data: Description data of Youtube video (Beauty field like review of production, make-up)
 
 <h2>Input type, output type of functions </h2>
-<main.py>
+>main_.py
 <h4>textrank(file name of title, the number of data)</h4>
 return) dataframe type of result, list of textrank keywords, list of brand
 
@@ -17,7 +17,7 @@ return) dataframe type of result, list of textrank keywords, list of brand
 
 return) list of keywords, list of brand
 
-<h4><PreProc.py></h4>
+>PreProc.py
 <h4>divided_by_sentence(str type)</h4>
 
 
