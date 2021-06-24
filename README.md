@@ -6,9 +6,9 @@ I referenced this site :https://lovit.github.io/nlp/2019/04/30/textrank/
 
 Data: Description data of Youtube video (Beauty field like review of production, make-up)
 
-<h2>input type, output type of functions </h2>
+<h2>Input type, output type of functions </h2>
 <main.py>
-textrank(file name of title, the number of data)
+<h1>textrank(file name of title, the number of data)</h1>
 
 
 return) dataframe type of result, list of textrank keywords, list of brand
@@ -19,7 +19,7 @@ ExtranctKeywords(str type)
 
 return) list of keywords, list of brand
 
-<PreProc.py>
+<h1><PreProc.py></h1>
 divided_by_sentence(str type)
 
 
@@ -43,6 +43,6 @@ remove_stopwords(list of keywords)
 
 return) list of keywords
 
-<textrank.py>
+<h1><textrank.py></h1>
 tokenize(str type) #using kkma
 return) list of noun
