@@ -11,7 +11,7 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h3>main_.py</h3>
 <h4>textrank(file name of title, the number of data)</h4>
 <h4>    return) dataframe type of result, list of textrank keywords, list of brand</h4>
-
+<br>
 <h4>ExtranctKeywords(str type)</h4>
 <h4>return) list of keywords, list of brand</h4>
 
@@ -20,13 +20,14 @@ Data: Description data of Youtube video (Beauty field like review of production,
 <h3>PreProc.py
 <h4>divided_by_sentence(str type)</h4>
 <h4>return) sentences splited by kss</h4>
-<br> <br>
+<br> 
 <h4>PreProcess(str type)</h4>
 <h4>return) str type</h4>
--
+<br>
 <h4>PreProc_apply(file name of title, the number of data)</h4>
 <h4>return) list of title, list of data</h4>
 <h4>*example list of data : ['content of data1' , 'content of data2']</h4>
+    <br>
 <h4>remove_stopwords(list of keywords)</h4>
 <h4>return) list of keywords</h4>
 
