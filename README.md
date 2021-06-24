@@ -14,6 +14,8 @@ return) dataframe type of result, list of textrank keywords, list of brand
 <h4>ExtranctKeywords(str type)</h4>
 return) list of keywords, list of brand
 
+
+
 >PreProc.py
 <h4>divided_by_sentence(str type)</h4>
 return) sentences splited by kss
