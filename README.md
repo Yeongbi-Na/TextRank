@@ -1,5 +1,5 @@
 # TextRank
-TexRank extracts important words using co-occurence between words in a sentence. It is based on words frequency.
+TexRank is the Algorithm that extracts important words using co-occurence between words in a sentence. It is based on words frequency.
 This code extracts important keywords using TextRank Algorithm. The code is based on Korean data(Youtube Description data)
 
 I referenced this site :https://lovit.github.io/nlp/2019/04/30/textrank/
